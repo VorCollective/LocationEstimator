@@ -1,4 +1,4 @@
-# ML Capstone Project: Missing Persons Location Estimator
+# ML Project: Missing Persons Location Estimator
 
 **Live Application:** [https://search-helper.lovable.app/](https://search-helper.lovable.app/)
 
